@@ -28,6 +28,7 @@ This is our application pipeline:
 
 
 This is a demo of our home service website:
+
 ![11](https://github.com/jakphunn/DADS5001/assets/99724047/3c2ddff5-261d-4e5f-8e26-1d4e7cd10bdf)
 ![12](https://github.com/jakphunn/DADS5001/assets/99724047/af1198b7-0371-44f7-be2c-abb8d0efcc0a)
 
@@ -49,7 +50,11 @@ This is a demo for our dashboard:
 
 ![14](https://github.com/jakphunn/DADS5001/assets/99724047/a29899fe-2761-48d5-ab56-603917cfb1b8)
 
+
 Group member:
+
 Jakphun Nimthong 6610412008
+
 Ranakorn Boonsuankergchai 6610412003
+
 Pattaradanai Lirdkittisakul 6610412011
