@@ -48,3 +48,8 @@ This is the example of how our API output:
 This is a demo for our dashboard:
 
 ![14](https://github.com/jakphunn/DADS5001/assets/99724047/a29899fe-2761-48d5-ab56-603917cfb1b8)
+
+Group member:
+Jakphun Nimthong 6610412008
+Ranakorn Boonsuankergchai 6610412003
+Pattaradanai Lirdkittisakul 6610412011
