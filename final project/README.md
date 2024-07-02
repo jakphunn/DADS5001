@@ -51,7 +51,7 @@ This is a demo for our dashboard:
 ![14](https://github.com/jakphunn/DADS5001/assets/99724047/a29899fe-2761-48d5-ab56-603917cfb1b8)
 
 
-Group member:
+Group members:
 
 Jakphun Nimthong 6610412008
 
